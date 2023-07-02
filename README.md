@@ -87,3 +87,4 @@ The only requirement is pytest for unittests, if you want to run tests, a requir
 The Habit Tracker Application will launch, and you can interact with it through the command-line interface (CLI).
 
 To exit the Habit tracker App, choose option 0 on the menu
+5. To run the test file python -m test.py
