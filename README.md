@@ -85,4 +85,5 @@ The only requirement is pytest for unittests, if you want to run tests, a requir
 4. Run the `main.py` script by executing the following command in the terminal or command prompt: python main.py
 
 The Habit Tracker Application will launch, and you can interact with it through the command-line interface (CLI).
+
 To exit the Habit tracker App, choose option 0 on the menu
