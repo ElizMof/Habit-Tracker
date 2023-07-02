@@ -81,7 +81,8 @@ A sample database is provided and can be used to get an overview of the applicat
    After that has run, type venv\Scripts\activate
    The code files do not have external dependencies, so you don't need to install any additional packages.
 The only requirement is pytest for unittests, if you want to run tests, a requirements file is attached, so you can install the needed dependency by opening a shell and
-4.Run the `main.py` script by executing the following command in the terminal or command prompt: python main.py
+
+4. Run the `main.py` script by executing the following command in the terminal or command prompt: python main.py
 
 The Habit Tracker Application will launch, and you can interact with it through the command-line interface (CLI).
 To exit the Habit tracker App, choose option 0 on the menu
