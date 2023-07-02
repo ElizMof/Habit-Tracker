@@ -73,4 +73,15 @@ A sample database is provided and can be used to get an overview of the applicat
 
 ## Installation
 
+1. Ensure that you have Python installed - Check the version within your 
+2. Download all the code files (`main.py`, `habit.py`, `analytics.py`, `data_storage.py`) and save them in a folder on your computer
+3. Create a Virtual Environment
+   Go to the folder where you have save the python files and initiate Command prompt by typing "cmd" at the end of the file path name
+   In the Command Prompt type python -m venv nameyouwanttocallenvironment, eg python -m venv venv
+   After that has run, type venv\Scripts\activate
+   The code files do not have external dependencies, so you don't need to install any additional packages.
 The only requirement is pytest for unittests, if you want to run tests, a requirements file is attached, so you can install the needed dependency by opening a shell and
+4.Run the `main.py` script by executing the following command in the terminal or command prompt: python main.py
+
+The Habit Tracker Application will launch, and you can interact with it through the command-line interface (CLI).
+To exit the Habit tracker App, choose option 0 on the menu
