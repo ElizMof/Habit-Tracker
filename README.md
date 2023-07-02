@@ -15,11 +15,7 @@ This application was built with Python 3.10 and is automatically tested against 
 - [Core Functionalities](#core-functionalities)
 - [Data Storage](#data-storage)
 - [Installation](#installation)
-- [Unit Tests](#unit-tests)
-- [General Usage](#general-usage)
-- [Interactive mode](#interactive-mode)
-- [Detailed usage with Examples](#detailed-usage-with-examples)
-- [Contributing](#contributing)
+
 
 ## Test
 
